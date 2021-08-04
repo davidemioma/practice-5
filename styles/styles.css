@@ -71,7 +71,7 @@ h3 {
 }
 
 .header {
-  background-image: url(/images/bg-pattern-card.svg);
+  background-image: url(../images/bg-pattern-card.svg);
   text-align: center;
   padding: 3rem;
 }
